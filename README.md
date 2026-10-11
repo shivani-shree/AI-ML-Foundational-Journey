@@ -1,12 +1,12 @@
-# 🧠 60-Day AI/ML Journey
+# 🧠 AI/ML Learning Journey
 
-`ROADMAP` `IN PROGRESS` `Day 3 / 60` `Last Updated: October 2026`
+`ROADMAP` `IN PROGRESS` `Week 1 / 12` `Last Updated: October 2026`
 
 ## 👋 Introduction
 
-Welcome to my 60-day AI/ML foundation journey! This repository documents my path through Git/GitHub, Linux, PostgreSQL, core machine learning, a flagship research-style project, and a tour through deep learning, LLMs, RAG, agents, and quantum computing.
+This repository is my learning log from 12 Oct to 31 Dec 2026: Git/GitHub, Linux, PostgreSQL, machine learning, deep learning, LLMs and quantum computing. Notes, daily logs and small exercises live here. Larger projects have their own repositories (linked below).
 
-**My goal:** Build real engineering fluency — not just tutorial-following — through daily hands-on practice, a flagship project, several smaller projects, and consistent documentation.
+**My goal:** build real engineering fluency through steady daily practice, a flagship project, and consistent documentation.
 
 ---
 
@@ -14,75 +14,84 @@ Welcome to my 60-day AI/ML foundation journey! This repository documents my path
 
 | Category | Skills | Progress |
 |---|---|---|
-| Programming | Git & GitHub, Linux/shell | 🟢🟢⚪⚪⚪ |
-| Data Engineering | PostgreSQL, SQL | ⚪⚪⚪⚪⚪ |
-| Math for ML | Linear Algebra, Calculus, Probability & Stats | 🟢⚪⚪⚪⚪ |
-| Machine Learning | Andrew Ng's ML Specialization, core ML concepts, from-scratch models | 🟢⚪⚪⚪⚪ |
-| Deep Learning & AI | PyTorch, LLMs, RAG, agents | ⚪⚪⚪⚪⚪ |
+| Tools | Git & GitHub, Linux/shell | ⚪⚪⚪⚪⚪ |
+| Data | PostgreSQL, NumPy, Pandas, Matplotlib, Seaborn | ⚪⚪⚪⚪⚪ |
+| Math for ML | Linear Algebra, Calculus, Probability & Stats | ⚪⚪⚪⚪⚪ |
+| Machine Learning | Andrew Ng's ML Specialization, scikit-learn | ⚪⚪⚪⚪⚪ |
+| Deep Learning & AI | PyTorch, LLMs, RAG | ⚪⚪⚪⚪⚪ |
 | Quantum Computing | Qiskit, quantum basics | ⚪⚪⚪⚪⚪ |
 
-*This dashboard will be updated as I progress through the roadmap.*
+*Updated as I progress.*
 
 ---
 
-## 🗺️ Roadmap Phases
+## 🗺️ 12-Week Roadmap
 
-My 60-day journey is divided into 5 phases:
-
-| Phase | Topic | Days |
-|---|---|---|
-| 1 | Foundations — Git, GitHub, Linux | 1–8 |
-| 2 | PostgreSQL + flagship research sprint | 9–14 |
-| 3 | Flagship project build | 15–35 |
-| — | Buffer & faculty outreach | 36–39 |
-| 4 | Deep learning, LLMs, RAG, agents, quantum | 40–58 |
-| 5 | Wrap-up & retrospective | 59–60 |
+| Week | Dates | Ng course | Topic |
+|---|---|---|---|
+| 1 | 12–18 Oct | C1 W1 | Git & GitHub |
+| 2 | 19–25 Oct | C1 W2 | Linux & shell |
+| 3 | 26 Oct–1 Nov | C1 W3 | PostgreSQL I |
+| 4 | 2–8 Nov | C2 W1 | PostgreSQL II |
+| 5 | 9–15 Nov | C2 W2 | PostgreSQL III |
+| 6 | 16–22 Nov | C2 W3 | Python data stack |
+| 7 | 23–29 Nov | C2 W4 | PyTorch I |
+| 8 | 30 Nov–6 Dec | C3 W1 | PyTorch II |
+| 9 | 7–13 Dec | C3 W2 | LLM foundations |
+| 10 | 14–20 Dec | C3 W3 | Quantum I |
+| 11 | 21–27 Dec | Buffer | Quantum II + RAG |
+| 12 | 28–31 Dec | — | Wrap-up |
 
 ---
 
 ## 📈 Progress Tracker
 
-| Phase | Status | Completion |
-|---|---|---|
-| 1. Foundations | 🟡 In Progress | 38% (Day 3/8) |
-| 2. PostgreSQL + research sprint | ⚪ Not Started | 0% |
-| 3. Flagship project | ⚪ Not Started | 0% |
-| 4. Deep learning, LLMs, quantum | ⚪ Not Started | 0% |
-| 5. Wrap-up | ⚪ Not Started | 0% |
+| Week | Status |
+|---|---|
+| 1 | 🟡 In progress |
+| 2–12 | ⚪ Not started |
 
 ---
 
-## 📦 Mini-Projects
+## 📦 Projects
 
-| Project | Topic | Status |
+| Project | Repo | Status |
 |---|---|---|
-| MP1 | Linear regression from scratch | 🟡 In Progress |
-| MP2 | Data pipeline CLI | ⚪ Not Started |
-| MP3 | PostgreSQL analytics project | ⚪ Not Started |
-| MP4 | EDA notebook | ⚪ Not Started |
-| MP5 | End-to-end sklearn project | ⚪ Not Started |
-| MP6 | Neural network from scratch + PyTorch | ⚪ Not Started |
-| MP7 | Fine-tuned transformer | ⚪ Not Started |
-| MP8 | RAG paper assistant | ⚪ Not Started |
-| MP9 | Tool-using agent | ⚪ Not Started |
-| MP10 | Quantum classifier (stretch) | ⚪ Not Started |
-| Flagship | Chosen on Day 14, built Days 15-35 | ⚪ Not Started |
+| MP1: Linear regression from scratch | [`mp1-linear-regression/`](./mp1-linear-regression) | 🟡 In progress |
+| Flagship | *(link when created)* | ⚪ Not started |
+| MP3: SQL analytics | *(link when created)* | ⚪ Not started |
+| MP5: Tabular ML pipeline | *(link when created)* | ⚪ Not started |
+| MP6: Neural network from scratch | *(link when created)* | ⚪ Not started |
+| MP7: Fine-tuned transformer | *(link when created)* | ⚪ Not started |
+| MP8: RAG assistant | *(link when created)* | ⚪ Not started |
 
 ---
 
 ## 📝 Daily Log
 
-- [x] **Day 1** — Git basics, repo setup, GitHub profile README → started MP1
-- [x] **Day 2** — Branches and merging, linear regression cost function → MP1: data loading, scatter plot, vectorized cost function
-- [x] **Day 3** — Gradient descent, GitHub remotes → MP1: gradient descent from scratch, loss curve, learning-rate comparison
+Short entries in [`daily-log/`](./daily-log), one file per day (`YYYY-MM-DD.md`).
+
+---
+
+## 📁 Structure
+
+```
+.
+├── README.md
+├── .gitignore
+├── daily-log/
+├── notes/
+└── mp1-linear-regression/
+```
+
 
 ---
 
 ## 🛠️ How This Repo Works
 
-- Each day follows: 📚 Learn → 💻 Build → 🎯 Mini-Project / Flagship work → 🚀 Commit.
-- One commit per day — the goal is a fully consistent contribution graph by Day 60.
+- Each day: 📚 learn → 💻 build → 📝 three-line log → 🚀 commit.
+- Projects big enough to show someone get their own repo, linked in the table above.
 
 ## 📌 Note
 
-This is a personal learning log, not a polished production codebase — expect scratch scripts, iteration, and the occasional bug fixed mid-day. That's the point of the exercise.
+This is a personal learning log, not a polished codebase. Expect scratch work and the occasional mid-day fix. That's the point.
